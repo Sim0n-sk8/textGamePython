@@ -10,7 +10,7 @@ throgus1 = "Greetings lost one! I haven't seen you around these parts before..."
 # Input
 name = input("What do they call you? ")
 
-# Now that we have the name, we can format the next line
+
 throgus2 = f"Ahh so they call you {name}? I haven't heard that name before..."
 
 # Print sequence
